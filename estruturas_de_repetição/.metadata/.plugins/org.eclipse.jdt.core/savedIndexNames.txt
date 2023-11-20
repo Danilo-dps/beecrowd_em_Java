@@ -1,0 +1,22 @@
+INDEX VERSION 1.134+C:\temp\beecrowd-exercicios\estruturas_de_repetição\.metadata\.plugins\org.eclipse.jdt.core
+1121011837.index
+3175545398.index
+3376472041.index
+608341110.index
+1358274055.index
+1874021833.index
+274009048.index
+637845230.index
+1680414816.index
+494505859.index
+1634533002.index
+465259917.index
+4290325071.index
+1865797976.index
+244029038.index
+1628985527.index
+1205518789.index
+441050328.index
+1056912211.index
+2466718789.index
+199222052.index

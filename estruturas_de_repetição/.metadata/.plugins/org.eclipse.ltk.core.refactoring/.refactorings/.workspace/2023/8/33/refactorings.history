@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Even_Numbers&apos;" deleteContents="true" description="Delete resource &apos;Even_Numbers&apos;" element1="/Even_Numbers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1692135494792"/>&#x0A;<refactoring comment="Delete resource &apos;Even_numbers&apos;" deleteContents="true" description="Delete resource &apos;Even_numbers&apos;" element1="/Even_numbers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1692135656174"/>
+</session>
